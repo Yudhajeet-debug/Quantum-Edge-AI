@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Edge AI",
+  "description": "An intelligent chatbot for investment and stock market insights, paired with a refreshment corner for AI-powered creative activities like image generation, video creation, music imagination, and a travel escape suggester with real-time map data.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
