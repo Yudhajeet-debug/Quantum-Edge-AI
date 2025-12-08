@@ -1,52 +1,47 @@
-# 🧹 ZenSpace-AI-Organizer: Master Your Domain 🧘‍♂️
+# 🥘 Culinary-AI: Your Digital Sous-Chef 🌶️
 
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
-![AI Vision](https://img.shields.io/badge/AI-Vision_Enabled-blueviolet?style=for-the-badge)
-![Vibe](https://img.shields.io/badge/Vibe-Immaculate-orange?style=for-the-badge)
+![Taste](https://img.shields.io/badge/Taste-Delicious-red?style=for-the-badge)
+![Cuisine](https://img.shields.io/badge/Cuisine-Global_%26_Desi-orange?style=for-the-badge)
+![Cost](https://img.shields.io/badge/Budget-Optimised-green?style=for-the-badge)
 
-**Stop living in a mess! It's time to organise like a Legend!** 🦁
+**Hungry, man? Let's cook something legendary!** 👨‍🍳🔥
 
-**ZenSpace-AI-Organizer** is the smart way to reclaim your space. We all know the struggle of a messy room (especially when guests are coming!). Using advanced **Computer Vision**, this app analyses your room just by looking at it! 📸 It tells you exactly what to clean, where to put things, and how to achieve total Zen.
+**Culinary-AI** is the ultimate kitchen companion for the modern chef. Whether you're a bachelor trying to survive or a pro looking for inspiration, this app uses AI to turn your random ingredients into a **Royal Feast**! 👑
 
-## ⚡ Power Features
+## 🍛 What's Cooking? (Features)
 
-* **👁️ AI Vision Scan:** Point your camera, and the AI identifies the clutter instantly. (Magical stuff!)
-* **📝 Smart Task List:** Auto-generates a cleaning checklist based on the visual scan. No more thinking "Where do I start?"
-* **💪 Manual Override:** For when you want to take control and tick off tasks yourself.
-* **🚀 Productivity Boost:** Clear space = Clear mind. Get more done!
+* **🥦 Fridge-to-Feast Generator:** Input what's in your fridge (e.g., "Paneer, Capsicum, and one lonely Tomato"), and get a killer recipe instantly!
+* **💰 Budget Boss:** Calculates the estimated cost of your meal in **Rupees (₹)** so you save money while eating good.
+* **🥗 Diet Commando:** Filters for High Protein, Vegan, Keto, or pure Desi Home-Style meals.
+* **🔥 Spice Meter:** Adjust the spice level from "Mild" to "Dragon Fire"! 🐉
 
-## 🛠️ How It Works
+## 🛠️ Tech Stack
 
-1.  **Snap:** Take a photo of your room or desk.
-2.  **Scan:** Our AI analyses the chaos (identifies books, clothes, tech trash).
-3.  **Solve:** Follow the generated plan to restore order.
+* **Frontend:** TypeScript & React
+* **Logic:** Node.js
+* **AI Brain:** Generative AI for Recipe Creation
 
-## 💻 Tech Stack
+## 🚀 Installation
 
-* **Core:** TypeScript & HTML5
-* **AI:** Gemini / Computer Vision Integration
-* **Styling:** CSS Modules / Tailwind (Inferred)
-
-## 🚀 Run Locally
-
-Want to test it out?
+Get this running in your kitchen (laptop):
 
 ```bash
 # Clone the repo
-git clone [https://github.com/Yudhajeet-debug/ZenSpace-AI-Organizer.git](https://github.com/Yudhajeet-debug/ZenSpace-AI-Organizer.git)
+git clone [https://github.com/Yudhajeet-debug/Culinary-AI.git](https://github.com/Yudhajeet-debug/Culinary-AI.git)
 
-# Install dependencies
+# Install the ingredients (dependencies)
 npm install
 
-# Set up your Environment
-# (Add your API Key in .env.local)
-
-# Start the server
+# Fire up the stove (server)
 npm run dev
 ```
-## 🤝 Contributing 
+## 🤝 Call for Chefs (Contributors)
 
-Got a better way to detect a messy desk? Found a bug? **Submit a PR!** Let's make this the smartest cleaning app on the planet! 🌍
+We need features!
+* Adding a "Tea Timer"? ☕
+* Integrating a grocery shopping list?
+* Improving the UI?
+**Jump in! Fork the repo and show us your code skills! 💪**
 
----
-**Maintained by [Yudhajeet-debug](https://github.com/Yudhajeet-debug)** | *Stay Sharp, Stay Clean ✨*
+  ---
+ **Maintained by [Yudhajeet-debug](https://github.com/Yudhajeet-debug)** | *Eat Well, Code Better 🍽️*
