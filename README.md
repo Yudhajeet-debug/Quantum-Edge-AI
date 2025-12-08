@@ -49,4 +49,4 @@ npm run dev
 Got a better way to detect a messy desk? Found a bug? **Submit a PR!** Let's make this the smartest cleaning app on the planet! 🌍
 
 ---
-**Maintained by [Yudhajeet-debug](https://github.com/Yudhajeet-debug)** | Stay Sharp, Stay Clean ✨
+**Maintained by [Yudhajeet-debug](https://github.com/Yudhajeet-debug)** | *Stay Sharp, Stay Clean ✨*
