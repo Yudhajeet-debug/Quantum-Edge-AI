@@ -12,7 +12,7 @@
 
 * **🥦 Fridge-to-Feast Generator:** Input what's in your fridge (e.g., "Paneer, Capsicum, and one lonely Tomato"), and get a killer recipe instantly!
 * **💰 Budget Boss:** Calculates the estimated cost of your meal in **Rupees (₹)** so you save money while eating good.
-* **🥗 Diet Commando:** Filters for High Protein, Vegan, Keto, or pure Desi Home-Style meals.
+* **🥗 Diet Commando:** Filters for High Protein, Vegan, Keto, or pure Desi (Indian) Home-Style meals.
 * **🔥 Spice Meter:** Adjust the spice level from "Mild" to "Dragon Fire"! 🐉
 
 ## 🛠️ Tech Stack
@@ -27,7 +27,7 @@ Get this running in your kitchen (laptop):
 
 ```bash
 # Clone the repo
-git clone [https://github.com/Yudhajeet-debug/Culinary-AI.git](https://github.com/Yudhajeet-debug/Culinary-AI.git)
+git clone https://github.com/Yudhajeet-debug/Culinary-AI.git
 
 # Install the ingredients (dependencies)
 npm install
