@@ -41,6 +41,7 @@ We need features!
 * Adding a "Tea Timer"? ☕
 * Integrating a grocery shopping list?
 * Improving the UI?
+
 **Jump in! Fork the repo and show us your code skills! 💪**
 
   ---
