@@ -39,7 +39,7 @@ git clone [https://github.com/Yudhajeet-debug/ZenSpace-AI-Organizer.git](https:/
 npm install
 
 # Set up your Environment
-# (Add your API Key in [.env.local](.env.local))
+# (Add your API Key in .env.local)
 
 # Start the server
 npm run dev
