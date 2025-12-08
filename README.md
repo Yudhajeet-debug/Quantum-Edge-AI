@@ -1,7 +1,7 @@
 # 🥘 Culinary-AI: Your Digital Sous-Chef 🌶️
 
 ![Taste](https://img.shields.io/badge/Taste-Delicious-red?style=for-the-badge)
-![Cuisine](https://img.shields.io/badge/Cuisine-Global_%26_Desi-orange?style=for-the-badge)
+![Cuisine](https://img.shields.io/badge/Cuisine-Global-orange?style=for-the-badge)
 ![Cost](https://img.shields.io/badge/Budget-Optimised-green?style=for-the-badge)
 
 **Hungry, man? Let's cook something legendary!** 👨‍🍳🔥
