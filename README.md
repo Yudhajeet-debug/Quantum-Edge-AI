@@ -1,4 +1,4 @@
-# 🚀 Quantum-Edge-AI: The Ultimate Financial & Lifestyle Powerhouse 💸🇮🇳
+# 🚀 Quantum-Edge-AI: The Ultimate Financial & Lifestyle Powerhouse 💸
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
