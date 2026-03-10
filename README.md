@@ -13,7 +13,7 @@ But wait, there's more! After a hard day of trading, chill out in our **Refreshm
 ## 🔥 Key Features
 
 * **🧠 Intelligent Market Analysis:** Get AI-driven insights on Nifty, Sensex, and individual stocks. No more guessing games!
-* **💸 Investment Strategy:** Customised advice to maximise your portfolio growth in the Indian market. [cite: 2025-11-12]
+* **💸 Investment Strategy:** Customised advice to maximise your portfolio growth in the Indian market.
 * **🧘 Refreshment Hub:** A dedicated zone to unwind with music and videos.
 * **⚡ Blazing Fast Performance:** Built with TypeScript and **pnpm** for serious speed.
 
